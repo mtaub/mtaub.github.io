@@ -1,0 +1,47 @@
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="index.html">About</a></li>
+  <li role="presentation"><a href="research.html">Research</a></li>
+  <li role="presentation"><a href="publications.html">Publications</a></li>
+</ul>
+
+<img src="img/ri.png" class="img-responsive center-block" />
+
+<div class="container" style="max-width:700px;margin-right:auto;margin-left:auto;font-size:14px;font-family:HelveticaNeue">
+
+### 2013
+
+**Taub MA**, Schwender HR, Younkin SG, Louis TA, Ruczinski I. On multi-marker tests for association in case-control studies. Front. Genet. 4:252
+
+Montaño CM, Irizarry RA, Kaufmann WE, Talbot K, Gur RE, Feinberg AP, **Taub MA**. Measuring cell-type specific differential methylation in human brain tissue. Genome Biology 2013, 14:R94
+
+Beaty TH, **Taub MA**, Scott AF, Murray JC, Marazita ML, Schwender H, Parker MM, Hetmanski JB, Balakrishnan P, Mansilla MA, Mangold E, Ludwig KU, Noethen MM, Rubini M, Elcioglu N, Ruczinski I. Confirming genes influencing risk to cleft lip with/without cleft palate in a case-parent trio study. Human Genetics, 2013; AOP March 20. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/23512105)
+
+Liu Y, Aryee MJ, Padyukov L, Fallin MD, Hesselberg E, Runarsson A, Reinius L, Acevedo N, **Taub M**, Ronninger M, Shchetynsky K, Scheynius A, Kere J, Alfredsson L, Klareskog L, Ekström TJ, Feinberg AP. Epigenome-wide association data implicate DNA methylation as an intermediary of genetic risk in rheumatoid arthritis. Nature Biotechnology, 2013; 31(2):142-7. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/23334450)
+
+### 2012
+
+Leek JT, **Taub MA**, Rasgon JL. A statistical approach to selecting and confirming validation targets in -omics experiments. BMC Bioinformatics, 2012; 13:150. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22738145)
+
+Murray T\*, **Taub MA\***, Ruczinski I, Scott AF, Hetmanski JB, Schwender H, Patel P, Zhang TX, Munger RG, Wilcox AJ, Ye X, Wang H, Wu, T, Wu-Chou YH, Shi B, Sun HJ, Chong SS, Yeow V, Murray JC, Marazita ML, Beaty TH. Examining markers in 8q24 to explain differences in evidence for association with cleft lip with/without cleft palate between Asians and Europeans. Genetic Epidemiology, 2012; 36(4):392-9. (* denotes equal contribution) [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22508319)
+
+**Taub MA**, Schwender H, Beatty TH, Louis TA, Ruczinski I.  Incorporating genotype uncertainties into the genotypic TDT for main effects and gene-environment interactions.  Genetic Epidemiology, 2012; 36(3):225-34. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22678881)
+
+Schwender H, **Taub MA**, Beaty TH, Marazita ML, Ruczinski I. Rapid testing of SNPs and gene-environment interactions in case-parent trio data based on exact analytic parameter estimation. Biometrics, 2012; 68(3):766-73. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22150644)
+
+### 2011
+
+Leek JT, **Taub MA**, Pineda F. Cooperation between referees and authors increases review accuracy.   PLoS One, 2011; 6(11). [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22096506)
+
+Niranjan TS\*, Adamczyk A\*, Corrada Bravo H\*, **Taub MA**, Wheelan SJ, Irizarry RA, Wang T.  Effective detection of rare variants in pooled DNA samples using Cross-pool tailcurve analysis.  Genome Biology, 2011 12:R93. (* denotes equal contribution) [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/21955804)
+
+### 2010 and earlier
+
+**Taub MA**, Corrada Bravo H, Irizarry RA.  Overcoming bias and systematic errors in next generation sequencing data.  Genome Medicine, 2010 Dec; 2(12):87. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/21144010)
+
+**Taub M**, Lipson D, Speed T. Methods for allocating ambiguous short-reads. Communications in Information and Systems, Special Issue in Honor of Mike Waterman. 2010; Vol. 10, No. 2. 
+
+Choudhry S\*, **Taub M\***, Mei R, Rodriguez-Santana J, Rogriguez-Cintron W, Shriver MD, Ziv E, Risch NJ, Burchard EG.  Genome-wide screen for asthma in Puerto Ricans: evidence for association with 5q23 region.  Human Genetics 2008 Jun; 123(5):455-68. (* denotes equal contribution) [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/18401594)
+
+Zhang C, Bailey DK, Awad T, Liu G, Xing G, Cao M, Valmeekam V, Retief J, Matsuzaki H, **Taub M**, Seielstad M, Kennedy GC. A whole genome long-range haplotype (WHLRH) test for detecting imprints of positive selection in human populations.  Bioinformatics, 2006 Sep 1;22(17):2122-8. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/16845142)
+
+</div>

@@ -1,0 +1,29 @@
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="index.html">About</a></li>
+  <li role="presentation"><a href="research.html">Research</a></li>
+  <li role="presentation"><a href="publications.html">Publications</a></li>
+</ul>
+
+<img src="img/ri.png" class="img-responsive center-block" />
+
+<div class="container" style="max-width:700px;margin-right:auto;margin-left:auto;font-size:14px;font-family:HelveticaNeue-Bold">
+
+My PhD research was completed under the supervision of Terry Speed in the 
+Statistics Department at UC Berkeley.  My thesis focused on the analysis of 
+high-throughput genomics data, with a particular emphasis on the then-emerging high-throughput DNA sequencing data.  Additional projects included applied work
+in statistical genetics.
+
+For my postdoc, I extended my work in statistical genetics to include methods 
+development for analysis of imputed data in large trio datasets and methods for 
+reducing test multiplicity in case-control settings by leveraging marker 
+correlation structure.
+
+I have also continued my work on high-throughput sequencing to include an 
+investigation of biases in variant detection due to technical artifacts and 
+have worked collaboratively on investigating optimal analysis methods for deep 
+targeted resequencing data.
+
+Expanding into the field of epigenetics, I have worked on analysis methods for 
+the new high-throughput methylation array from Illumina.
+
+</div>
