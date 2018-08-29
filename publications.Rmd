@@ -8,33 +8,39 @@
 
 <div class="container" style="max-width:700px;margin-right:auto;margin-left:auto;font-size:14px;font-family:HelveticaNeue">
 
-### 2013
+## Selected Publications
 
-**Taub MA**, Schwender HR, Younkin SG, Louis TA, Ruczinski I. On multi-marker tests for association in case-control studies. Front. Genet. 4:252
+For a complete list, please see my [Google Scholar page](https://scholar.google.com/citations?user=iTOu7bQAAAAJ&hl=en&oi=ao)
 
-Montaño CM, Irizarry RA, Kaufmann WE, Talbot K, Gur RE, Feinberg AP, **Taub MA**. Measuring cell-type specific differential methylation in human brain tissue. Genome Biology 2013, 14:R94
+Shringarpure SS, Mathias RA, Hernandez RD, O'Connor TD, Szpiech ZA, Torres R, De La Vega FM, Bustamante CD, Barnes KC, **Taub MA**; CAAPA consortium. Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data. Bioinformatics. 2016 Dec 29 [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/28035032)
+
+Mathias RA, **Taub MA**, Gignoux CR\*, Fu W\*, Musharoff S\*, O'Connor TD\*, Vergara C, Torgerson DG, Pino-Yanes M, Shringarpure SS, Huang L, Rafaels N, Boorgula MP, Johnston HR, Ortega VE, Levin AM, Song W, Torres R, Padhukasahasram B, Eng C, Mejia-Mejia DA, Ferguson T, Qin ZS, Scott AF, Yazdanbakhsh M, Wilson JG, Marrugo J, Lange LA, Kumar R, Avila PC, Williams LK, Watson H, Ware LB, Olopade C, Olopade O, Oliveira R, Ober C, Nicolae DL, Meyers D, Mayorga A, Knight-Madden J, Hartert T, Hansel NN, Foreman MG, Ford JG, Faruque MU, Dunston GM, Caraballo L, Burchard EG, Bleecker E, Araujo MI, Herrera-Paz EF, Gietzen K, Grus WE, Bamshad M, Bustamante CD, Kenny EE, Hernandez RD, Beaty TH, Ruczinski I, Akey J; CAAPA., Barnes KC. A continuum of admixture in the Western Hemisphere revealed by the African Diaspora genome. Nat Commun. 2016 Oct 11;7:12522 [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/27725671)
+
+Montano C, **Taub MA**, Jaffe A, Briem E, Feinberg JI, Trygvadottir R, Idrizi A, Runarsson A, Berndsen B, Gur RC, Moore TM, Perry RT, Fugman D, Sabunciyan S, Yolken RH, Hyde TM, Kleinman JE, Sobell JL, Pato CN, Pato MT, Go RC, Nimgaonkar V, Weinberger DR, Braff D, Gur RE, Fallin MD, Feinberg AP. Association of DNA Methylation Differences With Schizophrenia in an Epigenome-Wide Association Study.  JAMA Psychiatry. 2016 May 1;73(5):506-14. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/27074206)
+
+Leslie EJ\*, **Taub MA\***, Liu H, Steinberg KM, Koboldt DC, Zhang Q, Carlson JC, Hetmanski JB, Wang H, Larson DE, Fulton RS, Kousa YA, Fakhouri WD, Naji A, Ruczinski I, Begum F, Parker MM, Busch T, Standley J, Rigdon J, Hecht JT, Scott AF, Wehby GL, Christensen K, Czeizel AE, Deleyiannis FW, Schutte BC, Wilson RK, Cornell RA, Lidral AC, Weinstock GM, Beaty TH, Marazita ML, Murray JC. Identification of functional variants for cleft lip with or without cleft palate in or near PAX7, FGFR2, and NOG by targeted sequencing of GWAS loci. Am J Hum Genet. 2015 Mar 5;96(3):397-411 [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/25704602)
+
+Zeledón M, Eckart N, **Taub M**, Vernon H, Szymanski M, Wang R, Chen P-L, Nestadt G, McGrath JA, Sawa A, Pulver AE, Avramopoulos D,Valle D. Identification and Functional Studies of Regulatory Variants Responsible for the Association of NRG3 with a Delusion Phenotype in Schizophrenia. Molecular Neuropsychiatry, 2015;1:36-46. 
+
+**Taub MA**, Schwender HR, Younkin SG, Louis TA, Ruczinski I. On multi-marker tests for association in case-control studies. Front. Genet. 2013 4:252 [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/24379823)
+
+Montaño CM, Irizarry RA, Kaufmann WE, Talbot K, Gur RE, Feinberg AP, **Taub MA**. Measuring cell-type specific differential methylation in human brain tissue. Genome Biology 2013, 14:R94 [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/24000956)
 
 Beaty TH, **Taub MA**, Scott AF, Murray JC, Marazita ML, Schwender H, Parker MM, Hetmanski JB, Balakrishnan P, Mansilla MA, Mangold E, Ludwig KU, Noethen MM, Rubini M, Elcioglu N, Ruczinski I. Confirming genes influencing risk to cleft lip with/without cleft palate in a case-parent trio study. Human Genetics, 2013; AOP March 20. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/23512105)
 
 Liu Y, Aryee MJ, Padyukov L, Fallin MD, Hesselberg E, Runarsson A, Reinius L, Acevedo N, **Taub M**, Ronninger M, Shchetynsky K, Scheynius A, Kere J, Alfredsson L, Klareskog L, Ekström TJ, Feinberg AP. Epigenome-wide association data implicate DNA methylation as an intermediary of genetic risk in rheumatoid arthritis. Nature Biotechnology, 2013; 31(2):142-7. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/23334450)
 
-### 2012
-
 Leek JT, **Taub MA**, Rasgon JL. A statistical approach to selecting and confirming validation targets in -omics experiments. BMC Bioinformatics, 2012; 13:150. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22738145)
 
-Murray T\*, **Taub MA\***, Ruczinski I, Scott AF, Hetmanski JB, Schwender H, Patel P, Zhang TX, Munger RG, Wilcox AJ, Ye X, Wang H, Wu, T, Wu-Chou YH, Shi B, Sun HJ, Chong SS, Yeow V, Murray JC, Marazita ML, Beaty TH. Examining markers in 8q24 to explain differences in evidence for association with cleft lip with/without cleft palate between Asians and Europeans. Genetic Epidemiology, 2012; 36(4):392-9. (* denotes equal contribution) [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22508319)
+Murray T\*, **Taub MA\***, Ruczinski I, Scott AF, Hetmanski JB, Schwender H, Patel P, Zhang TX, Munger RG, Wilcox AJ, Ye X, Wang H, Wu, T, Wu-Chou YH, Shi B, Sun HJ, Chong SS, Yeow V, Murray JC, Marazita ML, Beaty TH. Examining markers in 8q24 to explain differences in evidence for association with cleft lip with/without cleft palate between Asians and Europeans. Genetic Epidemiology, 2012; 36(4):392-9. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22508319)
 
 **Taub MA**, Schwender H, Beatty TH, Louis TA, Ruczinski I.  Incorporating genotype uncertainties into the genotypic TDT for main effects and gene-environment interactions.  Genetic Epidemiology, 2012; 36(3):225-34. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22678881)
 
 Schwender H, **Taub MA**, Beaty TH, Marazita ML, Ruczinski I. Rapid testing of SNPs and gene-environment interactions in case-parent trio data based on exact analytic parameter estimation. Biometrics, 2012; 68(3):766-73. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22150644)
 
-### 2011
-
 Leek JT, **Taub MA**, Pineda F. Cooperation between referees and authors increases review accuracy.   PLoS One, 2011; 6(11). [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/22096506)
 
 Niranjan TS\*, Adamczyk A\*, Corrada Bravo H\*, **Taub MA**, Wheelan SJ, Irizarry RA, Wang T.  Effective detection of rare variants in pooled DNA samples using Cross-pool tailcurve analysis.  Genome Biology, 2011 12:R93. (* denotes equal contribution) [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/21955804)
-
-### 2010 and earlier
 
 **Taub MA**, Corrada Bravo H, Irizarry RA.  Overcoming bias and systematic errors in next generation sequencing data.  Genome Medicine, 2010 Dec; 2(12):87. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/21144010)
 

@@ -21,8 +21,12 @@ in the Department of Statistics at UC Berkeley under the supervision of
 [Terry Speed](https://www.stat.berkeley.edu/~terry/) for my graduate studies.
 
 I work on methods development in statistical genetics and on analysis problems 
-for high-throughput genomics data, including methylation array data and 
-re-sequencing data.  More details are available here.
+for high-throughput genomics data, including methylation array data, RNA-seq data and
+DNA sequencing data.  I collaborate with scientists working to understand the genetics
+and genomics of oral cleft disorders, cardiovascular disease and asthma, among other things.
+
+I teach a large undergraduate biostatistics course, mainly to students studying public
+health, and a couple of smaller courses on R programming and data analysis. 
 
 A copy of my CV is available
 [here](http://biostat.jhsph.edu/~mtaub/About_files/taub_cv.pdf).
