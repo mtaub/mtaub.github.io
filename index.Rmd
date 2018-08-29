@@ -44,9 +44,13 @@ A copy of my CV is available
 Contact Information:
 
 Department of Biostatistics
+
 Johns Hopkins University
+
 615 N Wolfe St
+
 Baltimore, MD 21205
+
 mtaub at jhsph dot edu
 
 <!-- End Markdown --> 

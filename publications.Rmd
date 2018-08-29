@@ -12,6 +12,10 @@
 
 For a complete list, please see my [Google Scholar page](https://scholar.google.com/citations?user=iTOu7bQAAAAJ&hl=en&oi=ao)
 
+Collado-Torres L, Nellore A, Kammers K, Ellis SE, **Taub MA**, Hansen KD, Jaffe AE, Langmead B, Leek JT. recount: A large-scale resource of analysis-ready RNA-seq expression data. Nature Biotechnology, 2017 April 11. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/28398307)
+
+Kammers K, **Taub MA**, Ruczinski I, Martin J, Yanek LR, Frazee A, Gao Y, Hoyle D, Faraday N, Becker DM, Cheng L, Wang ZZ, Leek JT, Becker LC, Mathias RA. Integrity of induced pluripotent stem cell (iPSC) derived megakaryocytes as assessed by genetic and transcriptomic analysis. PLoS One, 2017 Jan 20. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/28107356)
+
 Shringarpure SS, Mathias RA, Hernandez RD, O'Connor TD, Szpiech ZA, Torres R, De La Vega FM, Bustamante CD, Barnes KC, **Taub MA**; CAAPA consortium. Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data. Bioinformatics. 2016 Dec 29 [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/28035032)
 
 Mathias RA, **Taub MA**, Gignoux CR\*, Fu W\*, Musharoff S\*, O'Connor TD\*, Vergara C, Torgerson DG, Pino-Yanes M, Shringarpure SS, Huang L, Rafaels N, Boorgula MP, Johnston HR, Ortega VE, Levin AM, Song W, Torres R, Padhukasahasram B, Eng C, Mejia-Mejia DA, Ferguson T, Qin ZS, Scott AF, Yazdanbakhsh M, Wilson JG, Marrugo J, Lange LA, Kumar R, Avila PC, Williams LK, Watson H, Ware LB, Olopade C, Olopade O, Oliveira R, Ober C, Nicolae DL, Meyers D, Mayorga A, Knight-Madden J, Hartert T, Hansel NN, Foreman MG, Ford JG, Faruque MU, Dunston GM, Caraballo L, Burchard EG, Bleecker E, Araujo MI, Herrera-Paz EF, Gietzen K, Grus WE, Bamshad M, Bustamante CD, Kenny EE, Hernandez RD, Beaty TH, Ruczinski I, Akey J; CAAPA., Barnes KC. A continuum of admixture in the Western Hemisphere revealed by the African Diaspora genome. Nat Commun. 2016 Oct 11;7:12522 [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/27725671)

@@ -18,12 +18,9 @@ development for analysis of imputed data in large trio datasets and methods for
 reducing test multiplicity in case-control settings by leveraging marker 
 correlation structure.
 
-I have also continued my work on high-throughput sequencing to include an 
-investigation of biases in variant detection due to technical artifacts and 
-have worked collaboratively on investigating optimal analysis methods for deep 
-targeted resequencing data.
-
-Expanding into the field of epigenetics, I have worked on analysis methods for 
-the new high-throughput methylation array from Illumina.
+In the years since, I have built on consistent collaborations inside and outside
+the Department of Biostatistics, with applied work on oral cleft disorders, cardiovascular
+disease, schizophrenia and asthma, and methods development for DNA methylation data
+and variant calling.
 
 </div>
