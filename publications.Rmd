@@ -12,6 +12,15 @@
 
 For a complete list, please see my [Google Scholar page](https://scholar.google.com/citations?user=iTOu7bQAAAAJ&hl=en&oi=ao)
 
+
+**Taub MA**, Weinstock JS\*, Iyer KR\*, Yanek LR\*, Conomos MP\*, ... , NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium, ..., Mathias RA. Novel genetic determinants of telomere length from a multi-ethnic analysis of 75,000 whole genome sequences in TOPMed. bioRxiv preprint, posted Sept 4, 2019. [[link]](https://www.biorxiv.org/content/10.1101/749010v1)
+
+Fiksel J, Jager LR, Hardin J, **Taub MA**. Using GitHub Classroom to teach statistics.  Journal of Statistics Education, Volume 27, 27 June 2019, Issue 2. [[link]](https://amstat.tandfonline.com/doi/full/10.1080/10691898.2019.1617089)
+
+Sherman RM, Forman J, Antonescu V, Puiu D, Daya M, Rafaels N, Boorgula MP, Chavan S, Vergara C, Ortega VE, Levin AM, Eng C, Yazdanbakhsh M, Wilson JG, Marrugo J, Lange LA, Williams LK, Watson H, Ware LB, Olopade CO, Olopade O, Oliveira RR, Ober C, Nicolae DL, Meyers DA, Mayorga A, Knight-Madden J, Hartert T, Hansel NN, Foreman MG, Ford JG, Faruque MU, Dunston GM, Caraballo L, Burchard EG, Bleecker ER, Araujo MI, Herrera-Paz EF, Campbell M, Foster C, **Taub MA**, Beaty TH, Ruczinski I, Mathias RA, Barnes KC, Salzberg SL. Assembly of a pan-genome from deep sequencing of 910 humans of African descent. Nat Genet. 2018 Nov 19. [[pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/30455414)
+
+Bureau A, Begum F, **Taub MA**, Hetmanski J, Parker MM, Albacha-Hejazi H, Scott AF, Murray JC, Marazita ML, Bailey-Wilson JE, Beaty TH, Ruczinski I. Inferring disease risk genes from sequencing data in multiplex pedigrees through sharing of rare variants. Genetic Epidemiology. 2018 Sept 24. [[pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/30246882)
+
 Collado-Torres L, Nellore A, Kammers K, Ellis SE, **Taub MA**, Hansen KD, Jaffe AE, Langmead B, Leek JT. recount: A large-scale resource of analysis-ready RNA-seq expression data. Nature Biotechnology, 2017 April 11. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/28398307)
 
 Kammers K, **Taub MA**, Ruczinski I, Martin J, Yanek LR, Frazee A, Gao Y, Hoyle D, Faraday N, Becker DM, Cheng L, Wang ZZ, Leek JT, Becker LC, Mathias RA. Integrity of induced pluripotent stem cell (iPSC) derived megakaryocytes as assessed by genetic and transcriptomic analysis. PLoS One, 2017 Jan 20. [[pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/28107356)

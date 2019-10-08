@@ -13,7 +13,7 @@
 <!-- End HTML --> 
 <!-- Start Markdown --> 
 
-I am an Assistant Scientist in the Department of Biostatistics at Johns Hopkins 
+I am an Associate Scientist in the Department of Biostatistics at Johns Hopkins 
 University. I completed my postdoc at Hopkins under the mentorship of 
 [Rafael Irizarry](http://rafalab.dfci.harvard.edu/) and 
 [Ingo Ruczinski](http://www.biostat.jhsph.edu/~iruczins/).  I was 
@@ -29,7 +29,7 @@ I teach a large undergraduate biostatistics course, mainly to students studying 
 health, and a couple of smaller courses on R programming and data analysis. 
 
 A copy of my CV is available
-[here](http://biostat.jhsph.edu/~mtaub/About_files/taub_cv.pdf).
+[here](taub_cv.pdf).
 
 <!-- End Markdown --> 
 <!-- Start HTML --> 
